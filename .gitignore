@@ -2,4 +2,5 @@
 .DS_STORE
 *.sublime-project
 *.sublime-workspace
-gps/__pycache__/*
+*.idea
+*__pycache__
