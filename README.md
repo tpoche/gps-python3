@@ -1,3 +1,5 @@
+Note active development on this repository has ceased. You can find an active fork here:  https://github.com/tommyjcarpenter/gps-python3
+
 gps-python3
 ============
 
